@@ -1,2 +1,2 @@
 # 2048-Game
-2048 game in Pyhton using tkinter
+2048 game in Python using tkinter
